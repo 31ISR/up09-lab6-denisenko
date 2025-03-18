@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Laravel</title>
     </head>
-    <body>
+    <x-layout>
         <h1>Goodbye</h1>
-    </body>
+    </x-layout>
 </html>
